@@ -1,0 +1,15 @@
+C:\Users\seren\CsharpProjects\SetDiscountExercise\bin\Debug\net7.0\SetDiscountExercise.exe
+C:\Users\seren\CsharpProjects\SetDiscountExercise\bin\Debug\net7.0\SetDiscountExercise.deps.json
+C:\Users\seren\CsharpProjects\SetDiscountExercise\bin\Debug\net7.0\SetDiscountExercise.runtimeconfig.json
+C:\Users\seren\CsharpProjects\SetDiscountExercise\bin\Debug\net7.0\SetDiscountExercise.dll
+C:\Users\seren\CsharpProjects\SetDiscountExercise\bin\Debug\net7.0\SetDiscountExercise.pdb
+C:\Users\seren\CsharpProjects\SetDiscountExercise\obj\Debug\net7.0\SetDiscountExercise.csproj.AssemblyReference.cache
+C:\Users\seren\CsharpProjects\SetDiscountExercise\obj\Debug\net7.0\SetDiscountExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\seren\CsharpProjects\SetDiscountExercise\obj\Debug\net7.0\SetDiscountExercise.AssemblyInfoInputs.cache
+C:\Users\seren\CsharpProjects\SetDiscountExercise\obj\Debug\net7.0\SetDiscountExercise.AssemblyInfo.cs
+C:\Users\seren\CsharpProjects\SetDiscountExercise\obj\Debug\net7.0\SetDiscountExercise.csproj.CoreCompileInputs.cache
+C:\Users\seren\CsharpProjects\SetDiscountExercise\obj\Debug\net7.0\SetDiscountExercise.dll
+C:\Users\seren\CsharpProjects\SetDiscountExercise\obj\Debug\net7.0\refint\SetDiscountExercise.dll
+C:\Users\seren\CsharpProjects\SetDiscountExercise\obj\Debug\net7.0\SetDiscountExercise.pdb
+C:\Users\seren\CsharpProjects\SetDiscountExercise\obj\Debug\net7.0\SetDiscountExercise.genruntimeconfig.cache
+C:\Users\seren\CsharpProjects\SetDiscountExercise\obj\Debug\net7.0\ref\SetDiscountExercise.dll
